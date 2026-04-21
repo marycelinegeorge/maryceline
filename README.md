@@ -1,2 +1,2 @@
-# maryceline
+# Mary Celine
 maryceline-portfolio
